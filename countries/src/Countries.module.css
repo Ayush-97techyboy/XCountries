@@ -1,0 +1,19 @@
+/* contr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-wrap: wrap;
+}
+
+img {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #221313;
+  border-radius: 8px;
+  width: 200px;
+} */
